@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I am Kristina and this is my GitHub. I am a student in Economics and Finance. 
-
-- 💻 I’m currently learning JS 
-- ⭐ I'm interested in Web Development, JS, C# and MySQL
+It's me, Kristina. I'm a student in Economics and Finance, but I also study Software engineering.
 
 
 <!--
