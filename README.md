@@ -16,7 +16,7 @@ Welcome to the GitHub of a student in Economics and Finance 📈📊
   - Investments
   - Financial Analysis
   
-I'm still learning Software Development 💻, but I’m excited to grow my skills and knowledge in this field.<br> I enjoy exploring innovative technologies and embracing new learning opportunities!
+I'm still learning Software Development 💻, but I’m excited to grow my skills and knowledge in this field.
 
 Feel free to connect!<br>
 
