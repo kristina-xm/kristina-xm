@@ -8,10 +8,9 @@ Welcome to the GitHub of a student in Economics and Finance 📈📊
   - ASP.NET Core
   - React, Next.js
   - Deep Learning
+  - DeFi, Solidity
   - Data Structures and Algorithms
-  - 3D Modeling with Blender software 🎨🕹️
-- Other cool things like
-  - DeFi
+- Other topics like
   - Stock Markets
   - Investments
   - Financial Analysis
