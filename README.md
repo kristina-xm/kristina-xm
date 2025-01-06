@@ -6,7 +6,6 @@
   - ASP.NET Core
   - React, Next.js
   - Deep Learning
-  - DeFi, Solidity
 
 Feel free to connect!<br>
 
