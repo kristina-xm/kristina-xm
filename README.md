@@ -12,8 +12,8 @@ I’m interested in:
 ### **As well as**
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" width="50" height="50" />](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [<img src="https://camo.githubusercontent.com/5a5f5779919b90579d121551d0521cda87c06534a0218a2f21883c438daf6cc1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width="50" height="50" />](https://github.kristina-xm)
-[<img src="https://camo.githubusercontent.com/d91962979dcb1c481e5cb2134d531bdef6ed6d1c4de6ea261b0fab6cc816635b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" width="50" height="50" />]([https://github.kristina-xm](https://react.dev/))
-[<img src="https://camo.githubusercontent.com/39e3e17a1ff2a42b2451b007d37cf1cdc9e2a343e35813ff7deffdb685b348f8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width="50" height="50" />](https://github.kristina-xm)
+[<img src="https://camo.githubusercontent.com/d91962979dcb1c481e5cb2134d531bdef6ed6d1c4de6ea261b0fab6cc816635b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f72656163742e737667" width="50" height="50" />](https://react.dev/)
+[<img src="https://camo.githubusercontent.com/39e3e17a1ff2a42b2451b007d37cf1cdc9e2a343e35813ff7deffdb685b348f8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width="50" height="50" />](https://www.python.org/)
 
 
 Feel free to connect!
